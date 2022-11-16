@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "College of Education"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.5199,
+                    -45.86759
+                ]
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "HCL LAB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.51528,
+                    -45.86788
+                ]
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "Owheo Building"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.51528,
+                    -45.86788
+                ]
+            },
+            "id": 3
+        }
+    ]
+}

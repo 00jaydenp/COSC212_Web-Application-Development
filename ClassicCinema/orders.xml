@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<orders>
+    <order>
+        <delivery>
+            <name>James Scott</name>
+            <email>james@warehouse.com</email>
+            <address>162A Sunset Drive, </address>
+            <city>Rotorua</city>
+            <postcode>3015</postcode>
+        </delivery>
+        <items>
+            <item>
+                <title>The Birds (1963)</title>
+                <price>14.99</price>
+            </item>
+        </items>
+    </order>
+<order><delivery><name>John Doe</name><email>johndoe@gmail.com</email><address>472 Leith Street, </address><city>Dunedin</city><postcode>1111</postcode></delivery><items><item><title>The Birds (1963)</title><price>14.99</price></item></items></order><order><delivery><name>Adam Smith</name><email>asmith@gmail.com</email><address>123 Stone Rd, </address><city>Auckland</city><postcode>1342</postcode></delivery><items><item><title>Dial M for Murder (1954)</title><price>12.99</price></item><item><title>The Man Who Knew Too Much (1956)</title><price>11.99</price></item><item><title>Vertigo (1958)</title><price>16.99</price></item></items></order><order><delivery><name>John</name><email>john@gmail.com</email><address>123 Stone Rd, </address><city>Dunedin</city><postcode>1111</postcode></delivery><items><item><title>Attack of the 50 Foot Woman (1958)</title><price>8.99</price></item><item><title>Attack of the 50 Foot Woman (1958)</title><price>8.99</price></item></items></order></orders>

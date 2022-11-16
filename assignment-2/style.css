@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'blackchancery';
+    src: url('fonts/BLKCHCRY.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+html{
+    color: white;
+    background-color: #282828;
+    font-family: Verdana, sans-serif;
+    font-size: 10px;
+}
+
+body{
+    width:1000px;
+    margin: 0 auto;
+}
+
+header, main, footer{
+    padding:10px;
+    margin:0 0 30px 0;
+    background-color: #190061;
+    color: inherit;
+    text-align:center;
+}
+
+h1, h2{
+    font-family:blackchancery, sans-serif ;
+    margin:0;
+    text-align:center;
+}
+
+a{
+    color: white;
+}
+/* Navigation */
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    width:75px;
+    color: gray;
+    margin:0 10px 0 0;
+}
+
+nav li a{
+    display:block;
+    color: white;
+}
+
+nav{
+    font-size: 12px;
+    text-align: right;
+    margin-top: 25px;
+}
+
+/* Location page */
+#map{
+    margin: auto;
+    width: 590px;
+    height: 400px;
+    padding : 0;
+}
+
+
+button{
+    padding: 10px;
+
+
+}
+
+
+#buttons{
+    text-align: center;
+    margin: 10px;
+}
+/* Index Page */
+#carousel img{
+    width: 550px;
+    height: 350px;
+}
+
+#carousel{
+    text-align: center;
+}
+#vehicles img{
+    cursor: pointer;
+}
+
